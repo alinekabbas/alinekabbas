@@ -1,4 +1,4 @@
-# Olá, me chamo Aline Kabbas [alt text](image.png)
+# Olá, me chamo Aline Kabbas!
 
 Seja bem vindo ao meu perfil do Github! 
 
